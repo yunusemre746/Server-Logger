@@ -1,4 +1,4 @@
-local logs = "Change this to your webhook"
+local logs = "Change this your webhook"
 local communityname = "Big Yoda"
 local communtiylogo = "https://i.imgur.com/e8VsdLL.jpg" --Must end with .png or .jpg
 
